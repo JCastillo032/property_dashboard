@@ -1,5 +1,8 @@
 # Property Information Dashboard
 ## Description
+#### Frameworks and Languages:
+* Python Pandas, Requests
+* Power BI PowerQuery
 #### Displays relevant information on a property, including:
 * Property's detail (number of beds/bath, home/lot sizes, condition of home).
 * Comparable home sales including details, within the same zip code.
