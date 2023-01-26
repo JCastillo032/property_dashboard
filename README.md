@@ -19,5 +19,4 @@
 * pZip: 5 digit Zip code of home, format ex: 94501.
 * pSaleStart: Sale search date to start from, format ex: 2022-08-01.
 #
-![Property Info Dashboard - Screenshot](https://user-images.githubusercontent.com/118695631/210933943-590b99e1-9014-4654-8ae5-8bf3df68eebd.png)
-
+![Property Info Dashboard - Screenshot](https://user-images.githubusercontent.com/118695631/214764530-bfc1f03f-8e3a-4fcc-9938-13031b66208d.png)
