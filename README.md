@@ -1,5 +1,5 @@
 # Property Information Dashboard
-Dashboard showing data metrics for residential property, such as comparable neighborhood houses recently sold, sales trend for the zip code ﻿94107﻿, and living size/lot size ratios. Uses Python API interaction with ATTOM Real Estate data to display visuals which can be used by buyers before purchasing a home
+Dashboard showing data metrics for residential property. Uses Python API interaction with ATTOM Real Estate data to display visuals
 ## Description
 #### Frameworks and Languages:
 * Python Pandas, Requests
