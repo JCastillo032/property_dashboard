@@ -1,5 +1,5 @@
 # Property Information Dashboard
-Dashboard showing data metrics for residential property. Uses Python API interaction with ATTOM Real Estate data to display visuals
+Dashboard showing data metrics for residential property
 ## Description
 #### Frameworks and Languages:
 * Python Pandas, Requests
